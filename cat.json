@@ -1,0 +1,37 @@
+{
+    "Data" : [
+        {
+            "id" : "0",
+            imageURL:"https://i.imgur.com/pUzA7yS.jpg",
+            "title":"Appetizers",
+            "itemsLink" : "",
+            "summary":"Something you can either share with the table or if you're having commitment issues and don't want an entree.",
+
+        },
+        {
+            "id" : "2",
+            imageURL:"https://i.imgur.com/cHEPqlE.jpg",
+            "title":"Salads",
+            "itemsLink" : "",
+            "summary":"Side note: perfect for first dates.",
+        },
+        {
+            "id" : "3",
+            imageURL:"https://i.imgur.com/OJIFjny.jpg",
+            "title":"Side Items",
+            "itemsLink" : "",
+            "summary":"Because you're going to eat now and eat again once you get home.",
+
+        },
+        {
+            "id" : "4",
+            imageURL:"https://i.imgur.com/fbG12bR.png",
+            "title":"Beverages",
+            "itemsLink" : "",
+            "summary":"It's been a rough week. Okay?",
+
+        }
+
+
+    ]
+}
