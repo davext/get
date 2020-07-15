@@ -14,7 +14,13 @@
                 "ingredientName": "celery",
                 "required": false
             }
-        ]
+        ],
+        "itemWarnings":{
+             isSugarFree: true,
+             isHealthy: true,
+             isGF: true
+        }
+       
     },
     {
         "id": 2,
@@ -22,6 +28,10 @@
         "itemPrice": 12,
         "itemPictureURL": "https://i.imgur.com/qZXH2R4.png",
         "itemDescription": "We change this one every year! Get it while you have time.",
-        "itemIngredients": []
+        "itemIngredients": [],
+         "itemWarnings":{
+             isSugarFree: true,
+             isHealthy: true,
+        }
     }
 ]
