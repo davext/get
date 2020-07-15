@@ -16,9 +16,9 @@
             }
         ],
         "itemWarnings":{
-             isSugarFree: true,
-             isHealthy: true,
-             isGF: true
+             "isSugarFree": true,
+             "isHealthy": true,
+             "isGF": true
         }
        
     },
@@ -30,8 +30,8 @@
         "itemDescription": "We change this one every year! Get it while you have time.",
         "itemIngredients": [],
          "itemWarnings":{
-             isSugarFree: true,
-             isHealthy: true,
+             "isSugarFree": true,
+             "isHealthy": true,
         }
     }
 ]
