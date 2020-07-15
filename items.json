@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "itemName": "Soup of the day",
+        "itemPrice": 13,
+        "itemPictureURL": "https://i.imgur.com/geGfAez.png",
+        "itemDescription": "The daily soup of our grill!",
+        "itemIngredients": [
+            {
+                "ingredientName": "tomato",
+                "required": true
+            },
+            {
+                "ingredientName": "celery",
+                "required": false
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "itemName": "Soup of the year",
+        "itemPrice": 12,
+        "itemPictureURL": "https://i.imgur.com/qZXH2R4.png",
+        "itemDescription": "We change this one every year! Get it while you have time.",
+        "itemIngredients": []
+    }
+]
