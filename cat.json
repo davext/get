@@ -9,14 +9,14 @@
 	{
 		"id": "2",
 		"pictureURL": "https://i.imgur.com/cHEPqlE.jpg",
-		"title": "Salads",
+		"name": "Salads",
 		"itemsLink": "",
 		"description": "Side note: perfect for first dates."
 	},
 	{
 		"id": "3",
 		"pictureURL": "https://i.imgur.com/OJIFjny.jpg",
-		"title": "Side Items",
+		"name": "Side Items",
 		"itemsLink": "",
 		"description": "Because you're going to eat now and eat again once you get home."
 
@@ -24,7 +24,7 @@
 	{
 		"id": "4",
 		"pictureURL": "https://i.imgur.com/fbG12bR.png",
-		"title": "Beverages",
+		"name": "Beverages",
 		"itemsLink": "",
 		"description": "It's been a rough week. Okay?"
 
