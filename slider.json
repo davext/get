@@ -1,0 +1,23 @@
+[
+	{
+		"id":0,
+		"pictureUrl":"https://i.imgur.com/gno6Jux.png",
+		"alt":"",
+		"title":"Glizzy",
+		"description":"Inspired from internet culture."
+	},
+	{
+		"id":1,
+		"pictureUrl":"https://i.imgur.com/bZ9YYXC.png",
+		"alt":"",
+		"title":"'Murica",
+		"description":"A burger with patriotic BBQ sauce."
+	},
+	{
+		"id":2,
+		"pictureUrl":"https://i.imgur.com/RxaBgCG.png",
+		"alt":"",
+		"title":"French Fries",
+		"description":"Just some golden cripsy fries."
+	},
+]
